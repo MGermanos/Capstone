@@ -1,0 +1,135 @@
+\begin{thebibliography}{}
+
+\bibitem[Bowes et~al., 2018]{bowes2018software}
+Bowes, D., Hall, T., and Petri{\'c}, J. (2018).
+\newblock Software defect prediction: do different classifiers find the same
+  defects?
+\newblock {\em Software Quality Journal}, 26(2):525--552.
+
+\bibitem[Chen and Ma, 2015]{chen2015empirical}
+Chen, M. and Ma, Y. (2015).
+\newblock An empirical study on predicting defect numbers.
+\newblock In {\em SEKE}, pages 397--402.
+
+\bibitem[Chen et~al., 2019]{chen2019software}
+Chen, X., Zhang, D., Zhao, Y., Cui, Z., and Ni, C. (2019).
+\newblock Software defect number prediction: Unsupervised vs supervised
+  methods.
+\newblock {\em Information and Software Technology}, 106:161--181.
+
+\bibitem[Chidamber and Kemerer, 1994]{chidamber1994metrics}
+Chidamber, S.~R. and Kemerer, C.~F. (1994).
+\newblock A metrics suite for object oriented design.
+\newblock {\em IEEE Transactions on software engineering}, 20(6):476--493.
+
+\bibitem[Drucker et~al., 1997]{drucker1997support}
+Drucker, H., Burges, C.~J., Kaufman, L., Smola, A.~J., and Vapnik, V. (1997).
+\newblock Support vector regression machines.
+\newblock In {\em Advances in neural information processing systems}, pages
+  155--161.
+
+\bibitem[D’Ambros et~al., 2012]{d2012evaluating}
+D’Ambros, M., Lanza, M., and Robbes, R. (2012).
+\newblock Evaluating defect prediction approaches: a benchmark and an extensive
+  comparison.
+\newblock {\em Empirical Software Engineering}, 17(4-5):531--577.
+
+\bibitem[Fu and Menzies, 2017]{fu2017revisiting}
+Fu, W. and Menzies, T. (2017).
+\newblock Revisiting unsupervised learning for defect prediction.
+\newblock In {\em Proceedings of the 2017 11th Joint Meeting on Foundations of
+  Software Engineering}, pages 72--83.
+
+\bibitem[Gao and Khoshgoftaar, 2007]{gao2007comprehensive}
+Gao, K. and Khoshgoftaar, T.~M. (2007).
+\newblock A comprehensive empirical study of count models for software fault
+  prediction.
+\newblock {\em IEEE Transactions on Reliability}, 56(2):223--236.
+
+\bibitem[Janes et~al., 2006]{janes2006identification}
+Janes, A., Scotto, M., Pedrycz, W., Russo, B., Stefanovic, M., and Succi, G.
+  (2006).
+\newblock Identification of defect-prone classes in telecommunication software
+  systems using design metrics.
+\newblock {\em Information sciences}, 176(24):3711--3734.
+
+\bibitem[Lessmann et~al., 2008]{lessmann2008benchmarking}
+Lessmann, S., Baesens, B., Mues, C., and Pietsch, S. (2008).
+\newblock Benchmarking classification models for software defect prediction: A
+  proposed framework and novel findings.
+\newblock {\em IEEE Transactions on Software Engineering}, 34(4):485--496.
+
+\bibitem[Li et~al., 2017]{li2017software}
+Li, J., He, P., Zhu, J., and Lyu, M.~R. (2017).
+\newblock Software defect prediction via convolutional neural network.
+\newblock In {\em 2017 IEEE International Conference on Software Quality,
+  Reliability and Security (QRS)}, pages 318--328. IEEE.
+
+\bibitem[Manjula and Florence, 2019]{manjula2019deep}
+Manjula, C. and Florence, L. (2019).
+\newblock Deep neural network based hybrid approach for software defect
+  prediction using software metrics.
+\newblock {\em Cluster Computing}, 22(4):9847--9863.
+
+\bibitem[Ostrand et~al., 2005]{ostrand2005predicting}
+Ostrand, T.~J., Weyuker, E.~J., and Bell, R.~M. (2005).
+\newblock Predicting the location and number of faults in large software
+  systems.
+\newblock {\em IEEE Transactions on Software Engineering}, 31(4):340--355.
+
+\bibitem[Rathore and Kumar, 2017a]{rathore2017empirical}
+Rathore, S.~S. and Kumar, S. (2017a).
+\newblock An empirical study of some software fault prediction techniques for
+  the number of faults prediction.
+\newblock {\em Soft Computing}, 21(24):7417--7434.
+
+\bibitem[Rathore and Kumar, 2017b]{rathore2017towards}
+Rathore, S.~S. and Kumar, S. (2017b).
+\newblock Towards an ensemble based system for predicting the number of
+  software faults.
+\newblock {\em Expert Systems with Applications}, 82:357--382.
+
+\bibitem[Wang et~al., 2016]{wang2016multiple}
+Wang, T., Zhang, Z., Jing, X., and Zhang, L. (2016).
+\newblock Multiple kernel ensemble learning for software defect prediction.
+\newblock {\em Automated Software Engineering}, 23(4):569--590.
+
+\bibitem[Wolpert, 1992]{wolpert1992stacked}
+Wolpert, D.~H. (1992).
+\newblock Stacked generalization.
+\newblock {\em Neural networks}, 5(2):241--259.
+
+\bibitem[Xu et~al., 2019]{xu2019software}
+Xu, Z., Liu, J., Luo, X., Yang, Z., Zhang, Y., Yuan, P., Tang, Y., and Zhang,
+  T. (2019).
+\newblock Software defect prediction based on kernel pca and weighted extreme
+  learning machine.
+\newblock {\em Information and Software Technology}, 106:182--200.
+
+\bibitem[Yang and Wen, 2018]{yang2018ridge}
+Yang, X. and Wen, W. (2018).
+\newblock Ridge and lasso regression models for cross-version defect
+  prediction.
+\newblock {\em IEEE Transactions on Reliability}, 67(3):885--896.
+
+\bibitem[Yang et~al., 2016]{yang2016effort}
+Yang, Y., Zhou, Y., Liu, J., Zhao, Y., Lu, H., Xu, L., Xu, B., and Leung, H.
+  (2016).
+\newblock Effort-aware just-in-time defect prediction: simple unsupervised
+  models could be better than supervised models.
+\newblock In {\em Proceedings of the 2016 24th ACM SIGSOFT International
+  Symposium on Foundations of Software Engineering}, pages 157--168.
+
+\bibitem[Zhang et~al., 2017]{zhang2017label}
+Zhang, Z.-W., Jing, X.-Y., and Wang, T.-J. (2017).
+\newblock Label propagation based semi-supervised learning for software defect
+  prediction.
+\newblock {\em Automated Software Engineering}, 24(1):47--69.
+
+\bibitem[Zhou and Leung, 2007]{zhou2007predicting}
+Zhou, Y. and Leung, H. (2007).
+\newblock Predicting object-oriented software maintainability using
+  multivariate adaptive regression splines.
+\newblock {\em Journal of systems and software}, 80(8):1349--1361.
+
+\end{thebibliography}

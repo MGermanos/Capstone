@@ -1,0 +1,19 @@
+\BOOKMARK [1][]{section.1}{Introduction and Problem Statement}{}% 1
+\BOOKMARK [1][]{section.2}{Related Work}{}% 2
+\BOOKMARK [2][]{subsection.2.1}{Defect prediction}{section.2}% 3
+\BOOKMARK [2][]{subsection.2.2}{Predicting number of defects}{section.2}% 4
+\BOOKMARK [1][]{section.3}{Datasets}{}% 5
+\BOOKMARK [1][]{section.4}{Methodology}{}% 6
+\BOOKMARK [2][]{subsection.4.1}{Techniques}{section.4}% 7
+\BOOKMARK [2][]{subsection.4.2}{Stacked Regressor}{section.4}% 8
+\BOOKMARK [2][]{subsection.4.3}{Scenarios}{section.4}% 9
+\BOOKMARK [3][]{subsubsection.4.3.1}{Within-version}{subsection.4.3}% 10
+\BOOKMARK [3][]{subsubsection.4.3.2}{Within-project}{subsection.4.3}% 11
+\BOOKMARK [1][]{section.5}{Results}{}% 12
+\BOOKMARK [2][]{subsection.5.1}{Performance Measures}{section.5}% 13
+\BOOKMARK [2][]{subsection.5.2}{Results and discussion}{section.5}% 14
+\BOOKMARK [3][]{subsubsection.5.2.1}{Within-version}{subsection.5.2}% 15
+\BOOKMARK [3][]{subsubsection.5.2.2}{Within-Project results}{subsection.5.2}% 16
+\BOOKMARK [1][]{section.6}{Threats to internal validity}{}% 17
+\BOOKMARK [1][]{section.7}{Threats to external validity}{}% 18
+\BOOKMARK [1][]{section.8}{Conclusion}{}% 19
